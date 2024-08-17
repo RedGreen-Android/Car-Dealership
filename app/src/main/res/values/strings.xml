@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Car_Dealership Catalogue</string>
+    <string name="call_dealer">CALL DEALER</string>
+    <string name="vehicle_info">Vehicle Info</string>
+    <string name="location">Location:</string>
+    <string name="exterior_color">Exterior Color:</string>
+    <string name="interior_color">Interior Color:</string>
+    <string name="drive_type">Drive Type:</string>
+    <string name="transmission">Transmission:</string>
+    <string name="body_style">Body Style:</string>
+    <string name="engine">Engine:</string>
+    <string name="currency_symbol">$</string>
+    <string name="price_mileage_separator">|</string>
+
+    <!-- Navigation Routes -->
+    <string name="route_list">list</string>
+    <string name="route_details">details/{vehicleId}</string>
+    <string name="vehicle_id_arg">vehicleId</string>.
+</resources>
