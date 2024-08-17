@@ -11,16 +11,11 @@ Catalogue of Vehicles and various in-depth information w/t ability to Call Deale
 
 *Once "Call Dealer" button is clicked and user grants permission for phone call.*
 
-[Screen_recording_20240817_014932.webm](https://github.com/user-attachments/assets/061c68f7-3333-48fe-9bdb-52117eec8936)  [Screen_recording_20240817_014054.webm](https://github.com/user-attachments/assets/583b6b8e-0ef0-4b01-9dd4-ff7d5d72d89b)
-
-
-
-
-
-
-
-
+[Screen_recording_20240817_014932.webm](https://github.com/user-attachments/assets/dcb5f602-ef53-4f5f-8318-c54c2061db34)
 
 ![Car_DealershipCatalog_app_logo](https://github.com/user-attachments/assets/92a72434-b0bb-4fc6-9689-969a71fd9379)
+
+[Screen_recording_20240817_014054.webm](https://github.com/user-attachments/assets/90af944b-eda6-42c9-aded-fc0fd500209e)
+
 
 
