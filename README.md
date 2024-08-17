@@ -1,6 +1,6 @@
 # Car Dealership Catalogue
 ## Tech stack - Jetpack COMPOSE, Clean Architecture MVVM, Jetpack Compose, Navigation, HILT DI, Coroutine, RxJava (Flowables), Use cases, Stateflows, Room for Offline DB managment, States, App launcher logo
-Production level app, data, domain, presentaion layer, di package. App bar. All strings are in strings.xml instead of hardcoded. Demonstrate both RxJava and Coroutine. State managment with sucess, error, loading with Flows.  Call Dealer button click asking Permission for the first time with the Call working in both screens.
+Production level app, data, domain, presentaion layer, di package. App bar. All strings are in strings.xml instead of hardcoded. Demonstrate both RxJava and Coroutine. State managment with sucess, error, loading with Flows. API Doc. Call Dealer button click asking Permission for the first time with the Call working in both screens.
 
 ![Vehicle_list_Screen_main_new](https://github.com/user-attachments/assets/86859390-cb5c-4816-9c9d-9ce3fd095150) ![Vehicle_detail_screen](https://github.com/user-attachments/assets/dd7ef604-c39b-46d0-8501-d8584c5e0547)
 
